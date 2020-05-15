@@ -1,36 +1,59 @@
 {
   "squares": [
-    { "name": "media", "links": [
-        { "name": "Spotify", "url": "https://open.spotify.com/" },
-        { "name": "YoutubeMusic", "url": "https://music.youtube.com/" },
-        { "name": "Netflix", "url": "https://netflix.com" },
-        { "name": "Youtube", "url": "https://youtube.com" }
-      ]
-    },
-    { "name": "work", "links": [
-        { "name": "Github", "url": "https://github.com" },
-        { "name": "Heroku", "url": "http://heroku.com/" },
-        { "name": "localhost", "url": "http://localhost:8000/" }
-      ]
-    },
-    { "name": "social", "links": [
-        { "name": "Reddit", "url": "https://reddit.com" },
-        { "name": "Unixporn Love", "url": "https://deepjyoti30.github.io/unixporn-love/" },
-        { "name": "r/unixporn", "url": "https://www.reddit.com/r/unixporn/" },
-        { "name": "r/mk", "url": "https://www.reddit.com/r/MechanicalKeyboards/" }
+    {
+      "name": "media",
+      "links": [
+        {
+          "name": "Youtube",
+          "url": "https://www.youtube.com/"
+        },
+        { "name": "Audible", "url": "https://stories.audible.com/discovery" },
+        {
+          "name": "Bible",
+          "url": "https://www.bible.com/bible/1782/GEN.1.RVA2015"
+        },
+        {
+          "name": "Matutina",
+          "url": "https://www.youtube.com/results?search_query=matutina+para+jovenes+2020"
+        }
       ]
     },
     {
-      "name": "Others", "links": [
-        {"name": "Material Colors", "url": "http://materialuicolors.co/"},
-        {"name": "Gmail", "url": "http://gmail.com/"},
-        {"name": "neo4j Local", "url": "http://localhost:7474/"},
-        {"name": "rarbg", "url": "http://rarbg.to"}
+      "name": "education",
+      "links": [
+        {
+          "name": "Schedule",
+          "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSw2w4_TXyHdQCOQYQi2VqlHzBGY_98Vg2B08WrthLDp438KLHRi_TZTccCuBsNjJ3fUa77TItYKoZo/pubhtml#"
+        },
+        { "name": "KhanAcademy", "url": "https://www.khanacademy.org/" },
+        { "name": "Scratch", "url": "https://scratch.mit.edu/" },
+        {
+          "name": "TedEd",
+          "url": "https://ed.ted.com/lessons?direction=desc&sort=featured-position&user_by_click=student"
+        }
+      ]
+    },
+    {
+      "name": "tools",
+      "links": [
+        { "name": "Drive", "url": "https://google.com/drive" },
+        {
+          "name": "Kanban",
+          "url": "https://kanbanflow.com"
+        },
+        {
+          "name": "Slack",
+          "url": "https://mau-ed.slack.com"
+        },
+        {
+          "name": "Focus",
+          "url": "https://www.youtube.com/results?search_query=focus+music"
+        }
       ]
     }
   ],
-  "user": "Deepjyoti",
-  "disableMessage": false,
+  "user": "",
+  "disableMessage": true,
   "disableDate": false,
-  "disableSearchBar": false
+  "disableSearchBar": true
 }

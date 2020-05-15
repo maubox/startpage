@@ -1,0 +1,59 @@
+{
+  "squares": [
+    {
+      "name": "input",
+      "links": [
+        { "name": "Spotify", "url": "https://open.spotify.com/" },
+        { "name": "Audible", "url": "https://stories.audible.com/discovery" },
+        { "name": "Netflix", "url": "https://netflix.com" },
+        { "name": "Youtube", "url": "https://youtube.com" }
+      ]
+    },
+    {
+      "name": "study",
+      "links": [
+        { "name": "Anki", "url": "https://ankiweb.net/decks/" },
+        { "name": "Dictionary", "url": "https://dictionary.cambridge.org/us/" },
+        {
+          "name": "Grammer",
+          "url": "https://www.curso-ingles.com/aprender/cursos/nivel-basico"
+        },
+        {
+          "name": "Experiment",
+          "url": "http://meie.herokuapp.com/"
+        }
+      ]
+    },
+    {
+      "name": "pronounce",
+      "links": [
+        { "name": "Interactive", "url": "https://americanipachart.com/" },
+        {
+          "name": "IPA Chart",
+          "url": "https://www.ipachart.com/"
+        },
+        {
+          "name": "Practice",
+          "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQz3g6dyPOraxQM2TkfkwM-Dkuop5li-KKsi3hW0YWuHMOnJb674NL9SH2nzgFKU7fYrtOZj5-cwXTo/pubhtml"
+        },
+        {
+          "name": "Frequency",
+          "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vReS_7t01L1QHVJxScpROj9g0CB1iVOeXHEZOgrvem6abCMeCITm0VbBzC9P9SgZHl5RFWhkqCYPGQX/pubhtml"
+        }
+      ]
+    },
+    {
+      "name": "tools",
+      "links": [
+        { "name": "Schedule", "url": "https://maubox.github.io/english/" },
+        { "name": "Notion", "url": "http://notion.so/" },
+        { "name": "Pomodoro", "url": "https://tomato-timer.com/" },
+        { "name": "Typeit", "url": "https://ipa.typeit.org/" }
+      ]
+    }
+  ],
+  "user": "Luis",
+  "disableMessage": true,
+  "disableDate": false,
+  "disableSearchBar": true
+}
